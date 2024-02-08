@@ -4,7 +4,7 @@ const App = () => {
   return (
     <main className="w-full">
       <Container>
-        <p>Hello</p>
+        <p>KIKILU</p>
       </Container>
     </main>
   );
